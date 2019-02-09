@@ -1,3 +1,8 @@
+"""
+Created on Thu Jun  1 10:35:19 2017
+
+@author: LiDongNing
+"""
 import pandas as pd
 import scipy as sp
 import numpy as np
