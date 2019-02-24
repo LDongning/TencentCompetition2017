@@ -5,6 +5,7 @@
 # 初赛数据下载：
 
 链接：https://pan.baidu.com/s/1zIA31lUPhV3K9yCONBIGRw  提取码：t8is 
+
 训练数据：dsjtzs_txfz_training.txt
 线上测试数据A榜：dsjtzs_txfz_test1.txt
 线上测试数据B榜：dsjtzs_txfz_testB.txt
